@@ -1,7 +1,7 @@
 #Prueba Git#
 ====================
 									
-PruebaGit es un repositorio creado para entender el funcionamiento de Git y GitHub y usarlos a un nivel b�sico.
+PruebaGit es un repositorio creado para entender el funcionamiento de Git y GitHub y usarlos a un nivel básico.
 													
 ##Instalación##
 -------------------------
